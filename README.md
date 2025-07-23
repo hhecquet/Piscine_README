@@ -10,3 +10,7 @@ During the one-month 42 Piscine, I worked day and night to learn the fundamental
 Despite the intensity, I successfully completed 12 out of the 16 days of projects, as well as one rush project. The experience was incredibly demanding, but equally rewarding. I learned a lot about problem-solving under pressure and how to write clean, efficient C code within strict constraints.
 
 One of the most valuable aspects of the Piscine was the collaborative environment. _Everyone was in the same situation_ — sleep-deprived, confused, and determined — and I truly learned how to communicate effectively, support my peers, and stay motivated as a team. It taught me not just technical skills, but also resilience and adaptability.
+
+<p align="center">
+  <img width="550" height="800" alt="Screenshot from 2025-07-23 09-42-14" src="https://github.com/user-attachments/assets/b1c72198-2dea-4fc9-bad5-d5a8a72e091d" />
+</p>
